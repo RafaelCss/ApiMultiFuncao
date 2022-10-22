@@ -1,0 +1,14 @@
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\bin\Debug\net6.0\Modelo.Infra.Data.deps.json
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\bin\Debug\net6.0\Modelo.Infra.Data.runtimeconfig.json
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\bin\Debug\net6.0\Modelo.Infra.Data.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\bin\Debug\net6.0\Modelo.Infra.Data.pdb
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\obj\Debug\net6.0\Modelo.Infra.Data.csproj.AssemblyReference.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\obj\Debug\net6.0\Modelo.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\obj\Debug\net6.0\Modelo.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\obj\Debug\net6.0\Modelo.Infra.Data.AssemblyInfo.cs
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\obj\Debug\net6.0\Modelo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\obj\Debug\net6.0\Modelo.Infra.Data.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\obj\Debug\net6.0\refint\Modelo.Infra.Data.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\obj\Debug\net6.0\Modelo.Infra.Data.pdb
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\obj\Debug\net6.0\Modelo.Infra.Data.genruntimeconfig.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.Data\obj\Debug\net6.0\ref\Modelo.Infra.Data.dll

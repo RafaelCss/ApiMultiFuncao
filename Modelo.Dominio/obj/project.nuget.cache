@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYOHhVar3w9lDWz/BDeMDirkiHuKH0m8Us97mVETAZdrgetx/vdF6fj7bg2cUjfTYe3b38IAxF1O+VR31qFC/g==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\ApiMultiFuncao\\Modelo.Dominio\\Modelo.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rf201\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\rf201\\.nuget\\packages\\flunt.extensions.br\\1.0.1\\flunt.extensions.br.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\bin\Debug\net6.0\Modelo.Servico.deps.json
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\bin\Debug\net6.0\Modelo.Servico.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\bin\Debug\net6.0\Modelo.Servico.pdb
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\obj\Debug\net6.0\Modelo.Servico.csproj.AssemblyReference.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\obj\Debug\net6.0\Modelo.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\obj\Debug\net6.0\Modelo.Servico.AssemblyInfoInputs.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\obj\Debug\net6.0\Modelo.Servico.AssemblyInfo.cs
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\obj\Debug\net6.0\Modelo.Servico.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\obj\Debug\net6.0\Modelo.Servico.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\obj\Debug\net6.0\refint\Modelo.Servico.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\obj\Debug\net6.0\Modelo.Servico.pdb
+C:\Projetos\ApiMultiFuncao\Modelo.Servico\obj\Debug\net6.0\ref\Modelo.Servico.dll

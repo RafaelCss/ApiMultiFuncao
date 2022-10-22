@@ -1,0 +1,12 @@
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\bin\Debug\net6.0\Modelo.Dominio.deps.json
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\bin\Debug\net6.0\Modelo.Dominio.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\bin\Debug\net6.0\Modelo.Dominio.pdb
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\obj\Debug\net6.0\Modelo.Dominio.csproj.AssemblyReference.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\obj\Debug\net6.0\Modelo.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\obj\Debug\net6.0\Modelo.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\obj\Debug\net6.0\Modelo.Dominio.AssemblyInfo.cs
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\obj\Debug\net6.0\Modelo.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\obj\Debug\net6.0\Modelo.Dominio.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\obj\Debug\net6.0\refint\Modelo.Dominio.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\obj\Debug\net6.0\Modelo.Dominio.pdb
+C:\Projetos\ApiMultiFuncao\Modelo.Dominio\obj\Debug\net6.0\ref\Modelo.Dominio.dll

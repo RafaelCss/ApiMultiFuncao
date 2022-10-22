@@ -1,0 +1,12 @@
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\bin\Debug\net6.0\Modelo.Infra.CrossCutting.deps.json
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\bin\Debug\net6.0\Modelo.Infra.CrossCutting.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\bin\Debug\net6.0\Modelo.Infra.CrossCutting.pdb
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\obj\Debug\net6.0\Modelo.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\obj\Debug\net6.0\Modelo.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\obj\Debug\net6.0\Modelo.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\obj\Debug\net6.0\Modelo.Infra.CrossCutting.AssemblyInfo.cs
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\obj\Debug\net6.0\Modelo.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\obj\Debug\net6.0\Modelo.Infra.CrossCutting.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\obj\Debug\net6.0\refint\Modelo.Infra.CrossCutting.dll
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\obj\Debug\net6.0\Modelo.Infra.CrossCutting.pdb
+C:\Projetos\ApiMultiFuncao\Modelo.Infra.CrossCutting\obj\Debug\net6.0\ref\Modelo.Infra.CrossCutting.dll
