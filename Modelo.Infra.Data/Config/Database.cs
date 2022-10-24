@@ -18,6 +18,8 @@ namespace Modelo.Infra.Data.Config
             }
         }
 
+
+
         public DbSet<UsuarioDTB> Usuario { get; set; }
 
     }
