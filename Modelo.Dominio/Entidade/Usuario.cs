@@ -1,4 +1,5 @@
 ﻿using Flunt.Notifications;
+using Modelo.Dominio.Notificacao;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Modelo.Dominio.Entidade
 {
-	public class Usuario : Notifiable<Notification>
+	public class Usuario : EntidadeNotificacao
 	{
 
 		public Usuario(string nome, string email, string telefone, string senha )
@@ -24,11 +25,9 @@ namespace Modelo.Dominio.Entidade
 
 		public string ValidarNome(string nome)
 		{
-			if(nome.Length > 0) Nome = nome;
-
-			AddNotifications(Nome, "Este campo não pode ficar vazio");
-
-			return nome;
+			if(string.IsNullOrWhiteSpace(nome))
+				Nome = nome;
+			return Nome;
 		}
 			 
 	}

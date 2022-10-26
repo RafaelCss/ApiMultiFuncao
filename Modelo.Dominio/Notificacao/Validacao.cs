@@ -16,6 +16,8 @@ namespace Modelo.Dominio.Validacao
 			Message = message;
 		}
 
+	}
+
 		public class CustomNotifiable : Notifiable<CustomNotification>, INotifiable
 		{
 			public void AddNotifications(IEnumerable<Notification> notifications)
@@ -27,6 +29,4 @@ namespace Modelo.Dominio.Validacao
 				}
 			}
 		}
-
-	}
 }
