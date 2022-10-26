@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Modelo.Dominio.Interface
 {
-	internal interface IValidacao
+	public interface IValidacao
 	{
+		public string Validadar (string valor);
 	}
 }

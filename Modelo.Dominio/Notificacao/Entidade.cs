@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Modelo.Dominio.Notificacao
 {
-	public class EntidadeNotificacao : CustomNotifiable
+	public class EntidadeNotificacao 
 	{
 	}
 }
