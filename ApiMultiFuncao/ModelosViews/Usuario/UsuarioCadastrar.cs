@@ -4,7 +4,7 @@ namespace ApiMultiFuncao.ModelosViews.Usuario
 {
 	public class UsuarioCadastrar
 	{
-		[Required]		
+		
 		public string Nome { get; set; }
 		[Required]
 		public string Email { get; set; }
