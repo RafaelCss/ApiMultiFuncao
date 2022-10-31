@@ -2,6 +2,27 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Flunt/2.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        }
+      },
+      "Flunt.Extensions.Br/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Flunt": "2.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Flunt.Extensions.Br.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.Extensions.Br.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/7.0.0-rc.2.22476.2": {
         "type": "package",
         "compile": {
@@ -227,10 +248,50 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "Modelo.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Flunt": "2.0.5",
+          "Flunt.Extensions.Br": "1.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Modelo.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Modelo.Dominio.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "Flunt/2.0.5": {
+      "sha512": "CMgq8FUYjkHzyZT3PhkUwZyy79mudON+EL4b0SAT7BfIOJ2CNypwnbdA0cPHAM2CYQfO2L8ubNJCiBHQOIv2pA==",
+      "type": "package",
+      "path": "flunt/2.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt.2.0.5.nupkg.sha512",
+        "flunt.nuspec",
+        "icon.png",
+        "lib/netstandard2.0/Flunt.dll"
+      ]
+    },
+    "Flunt.Extensions.Br/1.0.1": {
+      "sha512": "Ff/UNcRT7hDAD8jfOD9xHULge4yAqFHghVmEuFPMFZclntwIWShyciME7k3slQ/5p94zgb2DeiG3xHTTN05Xyw==",
+      "type": "package",
+      "path": "flunt.extensions.br/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt.extensions.br.1.0.1.nupkg.sha512",
+        "flunt.extensions.br.nuspec",
+        "icon.png",
+        "lib/netstandard2.0/Flunt.Extensions.Br.dll"
+      ]
+    },
     "Microsoft.AspNetCore.Cryptography.Internal/7.0.0-rc.2.22476.2": {
       "sha512": "s2uBHODsYV1euNveHJNwEf0O9nNXsbgb/6rbdOQZUXy6lCDJPC0mxjgUxeT3g/UczVPpQNbch5uO5WUzKirekg==",
       "type": "package",
@@ -661,11 +722,17 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Modelo.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Modelo.Dominio/Modelo.Dominio.csproj",
+      "msbuildProject": "../Modelo.Dominio/Modelo.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.Extensions.Identity.Stores >= 7.0.0-rc.2.22476.2"
+      "Microsoft.Extensions.Identity.Stores >= 7.0.0-rc.2.22476.2",
+      "Modelo.Dominio >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -694,7 +761,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\ApiMultiFuncao\\Modelo.Dominio\\Modelo.Dominio.csproj": {
+              "projectPath": "C:\\Projetos\\ApiMultiFuncao\\Modelo.Dominio\\Modelo.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

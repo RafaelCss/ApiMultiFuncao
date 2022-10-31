@@ -1,6 +1,5 @@
 ﻿using Flunt.Notifications;
 using Flunt.Validations;
-using Modelo.Dominio.Notificacao;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
@@ -12,6 +11,7 @@ namespace Modelo.Dominio.Entidade
 {
 	public class Usuario : Notifiable<Notification>
 	{
+		public Usuario() { }
 
 		public Usuario(string nome, string email, string telefone, string senha )
 		{
@@ -46,9 +46,7 @@ namespace Modelo.Dominio.Entidade
 			Email = email;
 			AddNotifications(new Contract<Usuario>()
 				.Requires()
-				.IsEmailOrEmpty(Email,"Email","Campo Obrigatório")
-				)
-				;
+				.IsEmailOrEmpty(Email,"Email","Campo Obrigatório"));
 
 			return this;
 		}

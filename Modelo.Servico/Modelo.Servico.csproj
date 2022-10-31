@@ -10,4 +10,8 @@
     <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="7.0.0-rc.2.22476.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Modelo.Dominio\Modelo.Dominio.csproj" />
+  </ItemGroup>
+
 </Project>
