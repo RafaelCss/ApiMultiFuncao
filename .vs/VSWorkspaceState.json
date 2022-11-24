@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Modelo.Dominio",
-    "\\Modelo.Dominio\\Notificacao"
+    "\\ApiMultiFuncao",
+    "\\ApiMultiFuncao\\Controllers",
+    "\\Modelo.Dominio"
   ],
-  "SelectedNode": "\\Modelo.Dominio\\Notificacao\\Entidade.cs",
+  "SelectedNode": "\\ApiMultiFuncao.sln",
   "PreviewInSolutionExplorer": false
 }
